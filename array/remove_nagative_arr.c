@@ -25,8 +25,4 @@ void arr_ngative()
 int main()
 {
     arr_ngative();
-    for (int i = 0; i < 5; i++)
-    {
-        printf("%d", arr[i]);
-    }
 }
